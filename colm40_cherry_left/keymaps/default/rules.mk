@@ -1,0 +1,19 @@
+# Debug
+# CONSOLE_ENABLE = yes
+# COMMAND_ENABLE = yes
+
+# Settings
+# SERIAL_DRIVER = vendor
+# MOUSEKEY_ENABLE = yes
+TAP_DANCE_ENABLE = yes
+VIA_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+OS_DETECTION_ENABLE = yes
+COMBO_ENABLE = yes
+
+# Settings for Diet Firmware Size
+LTO_ENABLE = yes
+SPACE_CADET_ENABLE = no
+GRAVE_ESC_ENABLE = no
+MAGIC_ENABLE = no
+MUSIC_ENABLE = no
